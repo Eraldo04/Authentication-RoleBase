@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "id": "eraldo04",
+      "name": "eraldo",
+      "password": "E12345",
+      "email": "eraldokanani2@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "eraldo365",
+      "name": "Eraldo",
+      "password": "E12344",
+      "email": "eraldokanani2@yahoo.com",
+      "gender": "male",
+      "role": "Administrator",
+      "isactive": true
+    },
+    {
+      "id": "eraldoo1",
+      "name": "Eraldo",
+      "password": "E123455",
+      "email": "eraldokanani2@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "eraldo000",
+      "name": "eraldo",
+      "password": "E12222",
+      "email": "eraldoakrker@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "donald1",
+      "name": "donald",
+      "password": "D12345",
+      "email": "donald@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "besmir1",
+      "name": "Besmir",
+      "password": "B12345",
+      "email": "besmir@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "staff"
+    },
+    {
+      "code": "admin",
+      "name": "admin"
+    }
+  ]
+}

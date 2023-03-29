@@ -1,0 +1,9 @@
+.Form{
+    width: 100%;
+}
+
+.login-buttons{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
